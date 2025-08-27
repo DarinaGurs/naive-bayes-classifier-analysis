@@ -1,5 +1,9 @@
 # Наивный байесовский классификатор
 
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
+
+
 Проект по реализации и исследованию наивного байесовского классификатора для решения двух задач: классификации текстов и прогнозирования доходов на основе данных переписи населения.
 
 ## Цели и задачи
