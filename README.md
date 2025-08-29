@@ -1,4 +1,4 @@
-# Наивный байесовский классификатор
+# Naive Bayes classifier
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
